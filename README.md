@@ -23,9 +23,9 @@ In this world, is the destiny of mankind controlled by some transcendental entit
 
 | Сфера | Технологии |
 | :--- | :--- |
-| **Frontend** | JavaScript (ES6+), TypeScript, React, HTML5, CSS3, TailwindCSS |
-| **Backend** | Node.js, Express (базовый уровень) |
-| **Инструменты** | Git, GitHub, VS Code, Webpack, Docker |
+| **Frontend** | Not interested|
+| **Backend** | C++,C,Python |
+| **Инструменты** | Git, Github, Gemini, Cloude, Gpt |
 
 ---
 
@@ -41,14 +41,8 @@ In this world, is the destiny of mankind controlled by some transcendental entit
 ### 📫 Как со мной связаться
 
 <p align="left">
-  <a href="https://t.me" target="_blank">
-    <img src="https://shields.io" alt="Telegram">
-  </a>
-  <a href="mailto:ВАШ_EMAIL@example.com">
+  <a href="mailto:janlat588@gmail.com">
     <img src="https://shields.io" alt="Gmail">
-  </a>
-  <a href="https://linkedin.com" target="_blank">
-    <img src="https://shields.io" alt="LinkedIn">
   </a>
 </p>
 
