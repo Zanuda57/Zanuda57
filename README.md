@@ -32,7 +32,7 @@ In this world, is the destiny of mankind controlled by some transcendental entit
 ### 📊 Моя статистика GitHub
 
 <p align="center">
-  <img src="https://vercel.app" alt="Статистика GitHub" width="48%">
+  <img src="https://ru.pinterest.com/pin/705868941640405798/" alt="Статистика GitHub" width="48%">
   <img src="https://vercel.app" alt="Используемые языки" width="48%">
 </p>
 
