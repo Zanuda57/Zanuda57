@@ -1,8 +1,7 @@
 # Hi! Im [Zanuda] 👋
 
 <p align="center">
-  <img src="https://shields.io" alt="Статус">
-  <img src="https://shields.io" alt="Роль">
+  <img src="https://ru.pinterest.com/pin/1140114461942437105/" alt="Статус">
 </p>
 
 ---
